@@ -1,0 +1,11 @@
+@media screen and (max-width: 800px){
+    .two-content{
+        margin: 0;
+    }
+
+    .two-text{
+        margin: 0 1% 14% 1%;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 20px;
+    } 
+}

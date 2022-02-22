@@ -1,0 +1,60 @@
+
+
+.one-main{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url("https://images7.alphacoders.com/316/316751.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    font-family: 'Josefin Slab', serif;
+}
+
+.one-main-content{
+    display: flex;
+    flex-direction: column;
+    margin: 2% 10%;
+}
+
+.one-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.one-logo{
+    justify-items: flex-start;
+}
+
+.one-logo img{
+    width: 30%;
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%); 
+    filter: gray;
+}
+
+.one-box-1{
+    margin:  0;
+}
+
+.one-poli-designer{
+    font-size: 300%;
+    margin-top: 0;
+    font-weight: 100;
+    text-align: end;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.one-box-produtos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 205px;
+    font-size: 250%;
+    text-align: start;
+    color: rgb(244, 244, 247);
+    font-weight: 325;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+

@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px){
+    .one-poli-designer{
+        font-size: 300%;
+    }
+    
+    .one-box-produtos{
+        font-size: 170%;
+        margin-top: 240px;
+    }
+}

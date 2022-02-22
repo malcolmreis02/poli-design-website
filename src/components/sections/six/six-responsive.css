@@ -1,0 +1,21 @@
+@media screen and (max-width: 800px){
+    .six-content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .six-title{
+        margin-top: 10%;
+        margin-right: 0;
+        font-size: 16px;
+    }
+    
+    .six-show{
+        margin: 10% 1% 2% 1%;
+    }
+
+    .six-main{
+        min-height: 400px;
+    }
+}

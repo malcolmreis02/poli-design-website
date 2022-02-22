@@ -1,0 +1,21 @@
+.three-main{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('https://cdn.pixabay.com/photo/2016/11/23/00/37/art-1851483_960_720.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family: system-ui;
+}
+
+.three-content{
+    text-align: center;
+}
+
+.three-content p{
+    color: rgb(244, 244, 247);
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin-top: 14%;
+    font-weight: 4;
+}
+

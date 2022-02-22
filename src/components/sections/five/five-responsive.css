@@ -1,0 +1,21 @@
+@media screen and (max-width: 800px){
+    .five-content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .five-title{
+        margin-top: 10%;
+        margin-right: 0;
+        font-size: 16px;
+    }
+    
+    .five-show{
+        margin: 10% 1% 2% 1%;
+    }
+
+    .five-main{
+        min-height: 400px;
+    }
+}

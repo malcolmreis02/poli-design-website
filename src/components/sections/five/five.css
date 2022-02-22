@@ -1,0 +1,23 @@
+.five-main{
+    background: rgb(244, 244, 247);
+    min-height: 500px;
+    font-family: system-ui;
+}
+
+.five-content{
+    display: flex;
+    flex-direction: row;
+    margin: 0 10%;
+    justify-content: space-between;
+}
+
+.five-title{
+    margin-top: 10%;
+    margin-right: 3%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+}
+
+.five-show{
+    margin: 10% 1% 10% 10%;
+}

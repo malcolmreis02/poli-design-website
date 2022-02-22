@@ -1,0 +1,21 @@
+@media screen and (max-width: 800px){
+    .four-content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .four-title{
+        margin-top: 10%;
+        margin-right: 0;
+        font-size: 16px;
+    }
+    
+    .four-show{
+        margin: 10% 1% 2% 1%;
+    }
+
+    .four-main{
+        min-height: 400px;
+    }
+}
